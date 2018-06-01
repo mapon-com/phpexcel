@@ -39,5 +39,9 @@
         "psr-0": {
             "PHPExcel": "Classes/"
         }
-    }
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/mapon-com/phpexcel.git"
+    },
 }
